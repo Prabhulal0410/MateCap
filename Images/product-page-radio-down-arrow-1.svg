@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20" height="20" width="20">
+<g clip-path="url(#clip0_10421_4820)" id="down-arrow 1">
+<g id="Group">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="#01664F" d="M1.25 14.375L10 5.625L18.75 14.375" id="Vector"></path>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_10421_4820">
+<rect transform="translate(20 20) rotate(180)" fill="white" height="20" width="20"></rect>
+</clipPath>
+</defs>
+</svg>
