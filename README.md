@@ -32,4 +32,4 @@ This project uses the following technologies: :contentReference[oaicite:4]{index
 ✅ Smooth product carousels using Slick Slider  
 ✅ Clean and intuitive UI/UX layout  
 ✅ Multi-page website structure with navigation  
-✅ Prominent product showcase and informational sections :contentReference[oaicite:5]{index=5}
+✅ Prominent product showcase and informational sections
