@@ -1,8 +1,10 @@
 # MateCap 🌿
 
-**MateCap Website** — A responsive multi-page website showcasing MateCaps products, features, blog, FAQs, and more.
+A modern, responsive web experience designed to showcase MateCaps products, stories, and values.  
+Crafted with clean UI/UX principles for seamless browsing across all devices.
 
-Live Demo: 👉 https://prabhulalmatecapproject.netlify.app/ :contentReference[oaicite:1]{index=1}  
+Live Demo 👉 https://prabhulalmatecapproject.netlify.app/
+
 
 ---
 
