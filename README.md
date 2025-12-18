@@ -1,27 +1,33 @@
-MateCap Website
-A multi-page website for MateCap, featuring product listings, blogs, FAQs, and more.
+# MateCap 🌿
 
-📂 Project Structure
-home.html – Homepage
-shop.html – Shop section
-product-listing.html – Product catalog
-amezonia.html, aurora.html, serenata.html – Product pages
-blog.html – Blog section
-club-news.html – Latest news
-faq.html – Frequently Asked Questions
-our-story.html – About the brand
+**MateCap Website** — A responsive multi-page website showcasing MateCaps products, features, blog, FAQs, and more.
 
-🛠 Tech Stack
-HTML, CSS, JavaScript
-Slick Slider for interactive elements
+Live Demo: 👉 https://prabhulalmatecapproject.netlify.app/ :contentReference[oaicite:1]{index=1}  
 
-🔧 Features:
-✅ Responsive Design – Works on mobile & desktop
-✅ Slick Slider Integration – Smooth product carousels
-✅ Modern UI/UX – Clean and interactive interface
+---
 
-🚀 How to Use
-Open home.html in a browser to explore the website.
+## 🚀 About The Project
 
-💬 Have Suggestions?
-If you have any suggestions or improvements for the code, feel free to open an issue or submit a pull request. Your contributions are welcome! 😊
+MateCap is a sleek and modern HTML/CSS/JavaScript website built to present the MateCaps product range and brand experience. It features a professional UI/UX layout optimized for both desktop and mobile users. 
+
+
+---
+
+## 🛠️ Built With
+
+This project uses the following technologies: :contentReference[oaicite:4]{index=4}
+
+- **HTML5** — Structure and markup  
+- **CSS3** — Styling and layout  
+- **JavaScript** — Interactive elements  
+- **Slick Slider** — Carousel components and transitions  
+
+---
+
+## ✨ Features
+
+✅ Fully responsive design – optimized for mobile and desktop  
+✅ Smooth product carousels using Slick Slider  
+✅ Clean and intuitive UI/UX layout  
+✅ Multi-page website structure with navigation  
+✅ Prominent product showcase and informational sections :contentReference[oaicite:5]{index=5}
