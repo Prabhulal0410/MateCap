@@ -1,14 +1,17 @@
 # MateCap 🌿
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-4caf50?style=flat"/>
-  <a href="https://prabhulalmatecapproject.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Responsive-Yes-22c55e" />
+  <a href="https://prabhulalmatecapproject.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Live-3b82f6" />
   </a>
 </p>
+
+
+
 
 ---
 
